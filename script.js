@@ -310,7 +310,7 @@ function sendOrder() {
         `💳 *PAGAMENTO:* ${payDetail}\n\n` +
         `💰 *TOTAL GERAL: R$ ${totalFinalStr}*`;
 
-    window.open(`https://wa.me/5532998346183?text=${encodeURIComponent(message)}`, '_blank');
+    window.open(`https://wa.me/5532999995869?text=${encodeURIComponent(message)}`, '_blank');
 }
 
 window.addEventListener("load", function () {
